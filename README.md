@@ -9,8 +9,12 @@ whatever isbehind the # will be echoed.
 
 4) the server makes a new thread for every client who connects.
 
-5) by entering help#  commands for all the exercises can be found and executed
+5) by entering help#  commands for all the exercises can be found and executed.
+for some weird reason when the project is on droplet the output on telnet is not very east to read.
 hint:  everything before the # is a command and everything behind it will be comanded on, typing uppercase#hello will print back HELLO
+You wont get kicked for typing wrong pattern, u can log out by typing exit#
+u can also close the server with exitserver#pasword
+
 
 6) by typing msgall#messagehere   u can send messages to all online clients. to see whos online u can type whoison#
 also private messages can be send by msgto#username@message.
