@@ -25,6 +25,7 @@ the class ChatAll handles all the messages that are to be send to all user by us
 
 
 7) its one server who can do it all!  can be found on our droplet at 165.227.151.92 port 47
+or www.drayzin.tk 47
 
 
 Server has one bug. whenever people disconnect by closing the telnet window and not by writing "exit" the thread that closes doesnt remove the user from the program, meaning they still look like they are online.
